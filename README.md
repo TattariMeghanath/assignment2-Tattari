@@ -13,5 +13,16 @@ Locations near Kranti Mandir
 * Varad Ganesh temple
 [link to about me](AboutMe.md)
 
+***
+# Locations to be visited
+Recommended places to vist
+| Name of the city | Important Locations | Time to spend |
+| Hyderabad | Ram ki bandi | 30min |
+| Warangal | warangal fort | 1hour |
+| ooty | toy train | 1hour |
+| Mysore | Mysore palace | 1hour |
+
+
+
 
 

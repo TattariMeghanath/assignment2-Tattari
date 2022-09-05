@@ -6,7 +6,7 @@
 # Route Map
 Delhi Airport
 1. Fly to Bikaner --> taxi 29min to karnti mandir
-2. Delhi to jodhpur --> Taxi 4.9km to Raika bagh --> train 4hrs 26min to kranti mandir. <br>
+2. Delhi to jodhpur --> Taxi 4.9km to Raika bagh --> train 4hrs 26min to kranti mandir.
 Locations near Kranti Mandir
 * Siddharth Garden And Zoo
 * Aurangabad Caves

@@ -23,7 +23,10 @@ Recommended places to visit
 | ooty | toy train | 1hour |
 | Mysore | Mysore palace | 1hour |
 
-
+***
+# Quotes which inspire me
+> Arise awake and stop not until the goal is reached. - *Swami Vivekananda*<br>
+> Great Leaders Do Not Tell You What To Do, They Show You How It's Done - *Dr. Ivan Misner*
 
 
 

@@ -15,7 +15,7 @@ Locations near Kranti Mandir
 
 ***
 # Locations to be visited
-Recommended places to vist
+Recommended places to visit
 | Name of the city | Important Locations | Time to spend |
 | ---------------- | ------------------- | ------------- |
 | Hyderabad | Ram ki bandi | 30min |

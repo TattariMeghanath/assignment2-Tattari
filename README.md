@@ -17,6 +17,7 @@ Locations near Kranti Mandir
 # Locations to be visited
 Recommended places to vist
 | Name of the city | Important Locations | Time to spend |
+| ---------------- | ------------------- | ------------- |
 | Hyderabad | Ram ki bandi | 30min |
 | Warangal | warangal fort | 1hour |
 | ooty | toy train | 1hour |

@@ -11,6 +11,7 @@ Locations near Kranti Mandir
 * Siddharth Garden And Zoo
 * Aurangabad Caves
 * Varad Ganesh temple
+[link to about me](AboutMe.md)
 
 
 

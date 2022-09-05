@@ -10,7 +10,7 @@ Delhi Airport
 Locations near Kranti Mandir
 * Siddharth Garden And Zoo
 * Aurangabad Caves
-* Varad Ganesh Temple
+* Varad Ganesh temple
 
 
 

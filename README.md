@@ -33,6 +33,21 @@ Recommended places to visit
 >Form submission in frame
  [Link](https://stackoverflow.com/questions/36348476/form-submission-in-frame)
 
+ ---
+<form id='myform' action='action.php' method='POST' target='formresponse'>
+
+  <label for='name' >Your Full Name*: </label><br/>
+  <input type='text' name='name' id='name' maxlength="50" /><br/>
+
+  <label for='email' >Email Address*:</label><br/>
+  <input type='text' name='email' id='email' maxlength="50" /><br/>
+
+  <input type='button' name='Submit' value='Submit' />
+
+</form>
+
+<iframe name='formresponse' width='300' height='200'></iframe>
+
 
 
 

@@ -33,7 +33,7 @@ Recommended places to visit
 >Form submission in frame
  [Link](https://stackoverflow.com/questions/36348476/form-submission-in-frame)
 
- ---
+ ```
 <form id='myform' action='action.php' method='POST' target='formresponse'>
 
   <label for='name' >Your Full Name*: </label><br/>
@@ -47,7 +47,7 @@ Recommended places to visit
 </form>
 
 <iframe name='formresponse' width='300' height='200'></iframe>
-
+```
 
 
 
